@@ -1,60 +1,40 @@
 # NetworkWalks – Week 02
 ## Reconnaissance, Footprinting & Network Scanning
 
-### About This Repository
+This repository contains my Week 02 practical work completed as part of the NetworkWalks Cybersecurity Training Program (Batch B084B).
 
-This repository contains my Week 02 practical activities as part of the NetworkWalks Cybersecurity Program.
+## 📄 Project Report
 
-The main objective was to understand the initial stages of penetration testing by gathering publicly available information about a domain and performing network discovery in an authorized environment.
+- [View Reconnaissance & Footprinting Report (PDF)](Report/Reconnaissance-Footprinting-Report.pdf)
 
-### Activities Performed
+## 📸 Practical Screenshots
 
-**Phase 1: Reconnaissance & Footprinting**
+| Activity / Tool | Screenshot |
+|---|---|
+| WHOIS Lookup | [View Screenshot](Screenshots/WHOIS.png) |
+| cURL | [View Screenshot](Screenshots/cURL.png) |
+| DNSRecon | [View Screenshot](Screenshots/DNSRecon.png) |
+| Nslookup | [View Screenshot](Screenshots/Nslookup.png) |
+| Wafw00f | [View Screenshot](Screenshots/Wafw00f.png) |
+| WhatWeb | [View Screenshot](Screenshots/WhatWeb.png) |
+| Zenmap Network Scanning | [View Screenshot](Screenshots/Zenmap.png) |
 
-Tools used:
-- WHOIS
-- cURL
-- DNSRecon
-- Nslookup
-- Wafw00f
-- WhatWeb
+## 💻 Commands
 
-**Phase 2: Scanning & Network Discovery**
+- [View Commands Used](Commands/commands.md)
 
-Tool used:
-- Zenmap (Nmap GUI)
+## 🎯 Learning Outcomes
 
-### Practical Objectives
+- Learned basic reconnaissance and footprinting techniques.
+- Practiced information gathering using Kali Linux tools.
+- Performed DNS enumeration and web technology identification.
+- Practiced network discovery and scanning using Zenmap.
 
-- Collect domain registration information.
-- Analyze HTTP response headers.
-- Perform DNS enumeration.
-- Identify domain IP addresses.
-- Detect possible Web Application Firewall technology.
-- Identify website technologies.
-- Discover active hosts in an authorized local network.
-- Understand basic network topology.
+## ⚠️ Disclaimer
 
-### Repository Structure
+All activities were performed for educational purposes within the intended practical scope. Testing should only be conducted on systems for which permission has been granted.
 
-- `Report/` – Final practical report.
-- `Screenshots/` – Evidence collected during practical activities.
-- `Commands/` – Commands used during the exercises.
+## 👨‍💻 Author
 
-### Learning Outcomes
-
-Through these activities, I gained practical experience with reconnaissance tools, DNS information gathering, website fingerprinting and network discovery.
-
-I also learned the importance of documenting findings and understanding the security implications of publicly available information.
-
-### Disclaimer
-
-All activities documented in this repository are intended for educational purposes and must be performed only on systems and networks where appropriate authorization has been obtained.
-
-Unauthorized security testing is not permitted.
-
----
-
-**Program:** NetworkWalks Cybersecurity Program  
-**Week:** 02  
-**Author:** Prathamesh Kisan Satre
+**Prathamesh Kisan Satre**  
+NetworkWalks – Batch B084B
