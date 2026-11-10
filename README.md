@@ -1,23 +1,23 @@
 # NetworkWalks – Week 02
-## Reconnaissance, Footprinting & Network Scanning
+## Reconnaissance & Footprinting
 
 This repository contains my Week 02 practical work completed as part of the NetworkWalks Cybersecurity Training Program (Batch B084B).
 
-## 📄 Project Report
+## 📄 Report
 
-- [View Reconnaissance & Footprinting Report (PDF)](Report/Reconnaissance-Footprinting-Report.pdf)
+- [View Reconnaissance Report (PDF)](Report/Recon%20Report.pdf)
 
-## 📸 Practical Screenshots
+## 📸 Reconnaissance Screenshots
 
-| Activity / Tool | Screenshot |
+| Tool | Screenshot |
 |---|---|
-| WHOIS Lookup | [View Screenshot](Screenshots/WHOIS.png) |
-| cURL | [View Screenshot](Screenshots/cURL.png) |
-| DNSRecon | [View Screenshot](Screenshots/DNSRecon.png) |
-| Nslookup | [View Screenshot](Screenshots/Nslookup.png) |
-| Wafw00f | [View Screenshot](Screenshots/Wafw00f.png) |
-| WhatWeb | [View Screenshot](Screenshots/WhatWeb.png) |
-| Zenmap Network Scanning | [View Screenshot](Screenshots/Zenmap.png) |
+| WHOIS – Part 1 | [View Screenshot](Screenshots/whois%201.png) |
+| WHOIS – Part 2 | [View Screenshot](Screenshots/whois%202.png) |
+| cURL | [View Screenshot](Screenshots/curl.png) |
+| DNSRecon | [View Screenshot](Screenshots/dns%20recon.png) |
+| Nslookup | [View Screenshot](Screenshots/nslookup.png) |
+| Wafw00f | [View Screenshot](Screenshots/wafw00f.png) |
+| WhatWeb | [View Screenshot](Screenshots/whatweb.png) |
 
 ## 💻 Commands
 
@@ -26,13 +26,15 @@ This repository contains my Week 02 practical work completed as part of the Netw
 ## 🎯 Learning Outcomes
 
 - Learned basic reconnaissance and footprinting techniques.
-- Practiced information gathering using Kali Linux tools.
-- Performed DNS enumeration and web technology identification.
-- Practiced network discovery and scanning using Zenmap.
+- Practiced domain information gathering using WHOIS.
+- Performed DNS enumeration using DNSRecon and Nslookup.
+- Identified website technologies using WhatWeb.
+- Checked HTTP response headers using cURL.
+- Understood basic WAF detection using Wafw00f.
 
 ## ⚠️ Disclaimer
 
-All activities were performed for educational purposes within the intended practical scope. Testing should only be conducted on systems for which permission has been granted.
+All activities were performed for educational purposes within the authorized scope. Testing should only be conducted on systems for which permission has been granted.
 
 ## 👨‍💻 Author
 
