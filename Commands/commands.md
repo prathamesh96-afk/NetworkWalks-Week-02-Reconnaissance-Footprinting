@@ -85,3 +85,9 @@ Identifies technologies used by a website.
 ## 5. Purpose
 
 These commands were used to understand basic network configuration, connectivity testing, domain information gathering, DNS enumeration and website technology identification.
+
+## 6. Network Scanning – Nmap
+
+### Quick Scan
+```bash
+nmap -T4 -F 10.0.2.0/24
