@@ -5,7 +5,8 @@ This repository contains my Week 02 practical work completed as part of the Netw
 
 ## 📄 Report
 
-- [View Reconnaissance Report (PDF)](Report/Recon%20Report.pdf)
+
+[View Recon Report (PDF)](./Report/Recon%20Report.pdf)
 
 ## 📸 Reconnaissance Screenshots
 
